@@ -1,0 +1,13 @@
+html{
+    background-color: black;
+}
+.frame {
+    border: none;
+    width:  100%;
+    height: 80%;
+}
+iframe{
+    width: 100%;
+    border: none;
+}
+

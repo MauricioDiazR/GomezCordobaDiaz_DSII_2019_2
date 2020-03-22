@@ -1,0 +1,22 @@
+footer
+{
+    bottom: 0%;
+    position: fixed;
+    width: 100%;
+    background: #202022;  
+}
+
+.container--body
+{
+    display: flex;
+    width: 100%;
+}
+
+.copyrigth{
+    text-align: center;
+    color: white;
+}
+.colum1
+{
+    display: flex;
+}

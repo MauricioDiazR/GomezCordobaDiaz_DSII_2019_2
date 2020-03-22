@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+}
+.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.imagen{
+    margin-left: 10%;
+}
+
+.logo-github{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:1000px;
+}
