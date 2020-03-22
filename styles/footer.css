@@ -1,0 +1,24 @@
+footer
+{
+    bottom: 0%;
+    position: fixed;
+    width: 100%;
+    background: #202022;
+    color:white;
+   
+}
+
+.container--body
+{
+    display: flex;
+    width: 100%;
+}
+
+.colum2
+{
+    display: flex;
+}
+.colum3
+{
+    display: flex;
+}
