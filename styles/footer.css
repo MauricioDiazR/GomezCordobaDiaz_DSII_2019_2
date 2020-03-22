@@ -3,9 +3,7 @@ footer
     bottom: 0%;
     position: fixed;
     width: 100%;
-    background: #202022;
-    color:white;
-   
+    background: #202022;  
 }
 
 .container--body
@@ -14,11 +12,11 @@ footer
     width: 100%;
 }
 
-.colum2
-{
-    display: flex;
+.copyrigth{
+    text-align: center;
+    color: white;
 }
-.colum3
+.colum1
 {
     display: flex;
 }
